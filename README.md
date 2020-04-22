@@ -2,6 +2,7 @@
 
  https://vpinnika.github.io/javascript-challenge/
  
+ 
 ## Level 1: Automatic Table and Date Search (Required)
 
 https://github.com/vpinnika/javascript-challenge/tree/master/UFO-level-1
