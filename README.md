@@ -1,13 +1,12 @@
 ## Web application is deployed at the following link:
 
  https://vpinnika.github.io/javascript-challenge/
- 
- 
+   
 ## Level 1: Automatic Table and Date Search (Required)
 
 https://github.com/vpinnika/javascript-challenge/tree/master/UFO-level-1
 
-##Level 2: Multiple Search Categories (Optional)
+## Level 2: Multiple Search Categories (Optional)
 
 https://github.com/vpinnika/javascript-challenge/tree/master/UFO-level-2
 
